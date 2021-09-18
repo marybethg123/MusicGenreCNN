@@ -31,6 +31,5 @@ This project utilizes a Convolutional Neural Network to be able to accurately pr
 * There are then 5 precoded samples that can be run to see how accurately the CNN predicts the genre
 
 Base code retreived from [here](https://www.kaggle.com/bryanchooo/genre-classification-using-tensorflow-cnn)
+
 GTZAN genre collection retreived from [here](https://www.kaggle.com/bryanchooo/genre-classification-using-tensorflow-cnn/data)
-"# MusicGenreCNN" 
-"# MusicGenreCNN" 
