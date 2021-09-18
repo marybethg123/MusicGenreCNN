@@ -1,0 +1,5 @@
+# Ignore Dataset
+Data/
+
+# Ignore .json file
+*.json
