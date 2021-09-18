@@ -16,6 +16,10 @@ This project utilizes a Convolutional Neural Network to be able to accurately pr
 * **librosa 0.8.0**
 * **tensorflow 2.4.1**
 
+## File Hierarchy for dataset:
+
+* Download [GTZAN genre collection](https://www.kaggle.com/bryanchooo/genre-classification-using-tensorflow-cnn/data) into repo directory
+
 ## How to test:
 
 * The code will prompt you if you wish to test with 10 genres or 2 genres
